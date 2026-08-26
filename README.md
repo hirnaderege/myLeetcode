@@ -1,6 +1,3 @@
-
-
-Leetcode readme · MD
 # myLeetCode 🧩
  
 > organized solutions to LeetCode problems — because just solving them and moving on felt like a waste
